@@ -22,7 +22,6 @@ class LikesController < ApplicationController
       render json: @likes
    end
 
-   def edit 
-   end 
+
 
 
